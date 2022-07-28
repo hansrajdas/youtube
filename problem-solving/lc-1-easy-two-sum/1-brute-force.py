@@ -1,4 +1,11 @@
-# https://leetcode.com/problems/two-sum/
+"""
+Problem: https://leetcode.com/problems/two-sum/
+
+Complexity
+----------
+Time: O(N^2)
+Space: O(1)
+"""
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:

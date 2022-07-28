@@ -1,4 +1,11 @@
-# https://leetcode.com/problems/min-cost-climbing-stairs/
+"""
+https://leetcode.com/problems/min-cost-climbing-stairs/
+
+Complexity
+----------
+Time: O(N)
+Space: O(N)
+"""
 
 class Solution:
     def minCostClimbingStairs(self, cost: List[int]) -> int:

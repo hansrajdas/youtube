@@ -1,4 +1,11 @@
-# https://leetcode.com/problems/climbing-stairs/
+"""
+https://leetcode.com/problems/climbing-stairs/
+
+Complexity
+----------
+Time: O(N)
+Space: O(N)
+"""
 
 from functools import lru_cache
 

@@ -1,4 +1,11 @@
-# https://leetcode.com/problems/min-cost-climbing-stairs/
+"""
+https://leetcode.com/problems/min-cost-climbing-stairs/
+
+Complexity
+----------
+Time: O(N)
+Space: O(N)
+"""
 
 from functools import lru_cache
 

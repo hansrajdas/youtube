@@ -1,4 +1,11 @@
-# https://leetcode.com/problems/climbing-stairs/
+"""
+https://leetcode.com/problems/climbing-stairs/
+
+Complexity
+----------
+Time: O(N)
+Space: O(1)
+"""
 
 class Solution:
     def climbStairs(self, n: int) -> int:
