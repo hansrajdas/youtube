@@ -7,13 +7,16 @@ Time: O(N)
 Space: O(N)
 """
 
-from functools import lru_cache
-
 class Solution:
     def minCostClimbingStairs(self, cost: List[int]) -> int:
-        @lru_cache
-        def solve(idx):
+        def minCost(idx):
             if idx >= len(cost):
                 return 0
-            return cost[idx] + min(solve(idx + 1), solve(idx + 2))
-        return min(solve(0), solve(1))
+            if idx in cache:
+                return cache[idx]
+            cache[idx] = cost[idx] + min(minCost(idx + 1),
+                                         minCost(idx + 2))
+            return cache[idx]
+
+        cache = {}
+        return min(minCost(0), minCost(1))

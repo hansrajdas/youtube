@@ -9,13 +9,11 @@ Space: O(1)
 
 class Solution:
     def minCostClimbingStairs(self, cost: List[int]) -> int:
-        one_away = two_away = 0
         n = len(cost)
-        for i in range(2, n + 1):
-            res = min(
-                cost[i - 1] + one_away,
-                cost[i - 2] + two_away
-            )
-            two_away = one_away
-            one_away = res
+        away1 = away2 = 0
+        for idx in range(2, n + 1):
+            res = min(cost[idx - 1] + away1,
+                      cost[idx - 2] + away2)
+            away2 = away1
+            away1 = res
         return res
