@@ -17,13 +17,9 @@ class Solution:
         if l1 != None:
             val += l1.val
             l1 = l1.next
-        else:
-            l1 = None
         if l2 != None:
             val += l2.val
             l2 = l2.next
-        else:
-            l2 = None
         node = ListNode(val % 10)
         c = val // 10
         if l1 or l2 or c:
