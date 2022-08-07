@@ -8,13 +8,13 @@ Space: O(N)
 """
 
 class Solution:
-    def helper(self, root, mn, mx):
-        if root is None:
-            return True
-        if root.val <= mn or root.val >= mx:
-            return False
-        return (self.helper(root.left, mn, root.val) and
-                self.helper(root.right, root.val, mx))
-        
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        return self.helper(root, -sys.maxsize, sys.maxsize)
+        def helper(root, mn, mx):
+            if root is None:
+                return True
+            if root.val <= mn or root.val >= mx:
+                return False
+            return (helper(root.left, mn, root.val) and
+                    helper(root.right, root.val, mx))
+
+        return helper(root, -sys.maxsize, sys.maxsize)
