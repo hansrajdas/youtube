@@ -17,4 +17,4 @@ class Solution:
             return (helper(root.left, mn, root.val) and
                     helper(root.right, root.val, mx))
 
-        return helper(root, -sys.maxsize, sys.maxsize)
+        return helper(root, -math.inf, math.inf)
