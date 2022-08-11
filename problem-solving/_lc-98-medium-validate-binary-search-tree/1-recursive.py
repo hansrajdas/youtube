@@ -9,12 +9,12 @@ Space: O(N)
 
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        def helper(root, mn, mx):
+        def validate(root, mn, mx):
             if root is None:
                 return True
             if root.val <= mn or root.val >= mx:
                 return False
-            return (helper(root.left, mn, root.val) and
-                    helper(root.right, root.val, mx))
+            return (validate(root.left, mn, root.val) and
+                    validate(root.right, root.val, mx))
 
-        return helper(root, -math.inf, math.inf)
+        return validate(root, -math.inf, math.inf)
