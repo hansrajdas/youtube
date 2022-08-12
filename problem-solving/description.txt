@@ -1,0 +1,16 @@
+Explains "Plus One" problem of the leetcode with code in Python
+
+00:00 - Problem explanation
+01:44 - Approach explanation
+04:48 - Code, O(N) time and O(1) space complexity
+
+Problem: https://leetcode.com/problems/plus-one/
+
+Solution: https://github.com/hansrajdas/youtube/tree/main/problem-solving/_lc-66-easy-plus-one
+
+#problemSolving #coding #codingInterview #leetcode #python #array
+
+
+
+#problemSolving #coding #codingInterview #leetcode #python
+#problemSolving #coding #codingInterview #leetcode #python #dynamicProgramming
