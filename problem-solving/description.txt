@@ -1,17 +1,21 @@
-First Bad Version, Leetcode 278
+Same Tree, Leetcode 100
 
 
-Explains "First Bad Version" problem of the leetcode with code in Python.
+Explains "Same Tree" problem of the leetcode with code in Python.
 
-00:00 - Problem explanation
-02:33 - Linear search approach | O(n) time and O(1) space complexity
-06:44 - Binary search | O(logn) time and O(1) space complexity
+00:00 - Agenda
+00:30 - Problem explanation
+02:08 - Approach
+05:50 - Recursive code
+10:19 - Iterative code
 
-Problem: https://leetcode.com/problems/first-bad-version/
+Both solution has time and space complexity of O(n)
 
-Solution: https://github.com/hansrajdas/youtube/tree/main/problem-solving/lc-278-easy-first-bad-version
+Problem: https://leetcode.com/problems/same-tree/
 
-#problemSolving #coding #codingInterview #leetcode #binarySearch #python #array
+Solution: https://github.com/hansrajdas/youtube/tree/main/problem-solving/lc-100-easy-same-tree
+
+#problemSolving #coding #codingInterview #leetcode #python #binaryTree
 
 
 
