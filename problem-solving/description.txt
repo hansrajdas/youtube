@@ -1,21 +1,18 @@
-Same Tree, Leetcode 100
+Excel Sheet Column Title, Leetcode 168
 
 
-Explains "Same Tree" problem of the leetcode with code in Python.
+Explains "Excel Sheet Column Title" problem of the leetcode with code in Python.
 
-00:00 - Agenda
-00:30 - Problem explanation
-02:08 - Approach
-05:50 - Recursive code
-10:19 - Iterative code
+00:00 - Problem explanation
+01:10 - Approach
+03:59 - Code
+06:30 - Complexity, time and space complexity O(logn)  // base of log is 26
 
-Both solution has time and space complexity of O(n)
+Problem: https://leetcode.com/problems/excel-sheet-column-title/
 
-Problem: https://leetcode.com/problems/same-tree/
+Solution: https://github.com/hansrajdas/youtube/blob/main/problem-solving/lc-168-easy-excel-sheet-column-title/solution.py
 
-Solution: https://github.com/hansrajdas/youtube/tree/main/problem-solving/lc-100-easy-same-tree
-
-#problemSolving #coding #codingInterview #leetcode #python #binaryTree
+#problemSolving #coding #codingInterview #leetcode #python
 
 
 

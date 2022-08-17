@@ -3,8 +3,7 @@ https://leetcode.com/problems/excel-sheet-column-title/
 
 Complexity
 ----------
-Time: O(logn), base = 26
-Space: O(1)
+Time and space complexity: O(logn), base = 26
 """
 
 class Solution:
