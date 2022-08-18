@@ -1,18 +1,18 @@
-Excel Sheet Column Title, Leetcode 168
+Excel Sheet Column Number, Leetcode 171
 
 
-Explains "Excel Sheet Column Title" problem of the leetcode with code in Python.
+Explains "Excel Sheet Column Number" problem of the leetcode with code in Python.
 
 00:00 - Problem explanation
-01:10 - Approach
-03:59 - Code
-06:30 - Complexity, time and space complexity O(logn)  // base of log is 26
+01:00 - Approach
+05:03 - Code
+07:05 - Complexity, time O(n) and space O(1)
 
-Problem: https://leetcode.com/problems/excel-sheet-column-title/
+Problem: https://leetcode.com/problems/excel-sheet-column-number/
 
-Solution: https://github.com/hansrajdas/youtube/blob/main/problem-solving/lc-168-easy-excel-sheet-column-title/solution.py
+Solution: https://github.com/hansrajdas/youtube/blob/main/problem-solving/lc-171-easy-excel-sheet-column-number/solution.py
 
-#problemSolving #coding #codingInterview #leetcode #python
+#problemSolving #coding #codingInterview #leetcode #python #numerical
 
 
 
