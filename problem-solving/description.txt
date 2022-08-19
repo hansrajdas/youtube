@@ -12,7 +12,7 @@ Problem: https://leetcode.com/problems/excel-sheet-column-number/
 
 Solution: https://github.com/hansrajdas/youtube/blob/main/problem-solving/lc-171-easy-excel-sheet-column-number/solution.py
 
-#problemSolving #coding #codingInterview #leetcode #python #numerical
+#problemSolving #coding #codingInterview #leetcode #python
 
 
 
