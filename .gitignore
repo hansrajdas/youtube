@@ -129,3 +129,10 @@ dmypy.json
 .pyre/
 
 .DS_Store
+
+# Media files
+**.mp4
+**.mov
+**.jpeg
+**.png
+**.svg
