@@ -12,9 +12,11 @@ Problem: https://leetcode.com/problems/excel-sheet-column-number/
 
 Solution: https://github.com/hansrajdas/youtube/blob/main/problem-solving/lc-171-easy-excel-sheet-column-number/solution.py
 
-#problemSolving #coding #codingInterview #leetcode #python
+Subscribe: https://www.youtube.com/channel/UCUTXeBSMHvMjqq8CEXMySxQ?sub_confirmation=1
+
+#softwareengineering #programming #problemSolving #coding #codingInterview #leetcode #python #algorithms #dataStructure
 
 
 
-#problemSolving #coding #codingInterview #leetcode #python
-#problemSolving #coding #codingInterview #leetcode #python #dynamicProgramming
+#softwareengineering #programming #problemSolving #coding #codingInterview #leetcode #python #algorithms #dataStructure
+#softwareengineering #programming #problemSolving #coding #codingInterview #leetcode #python #algorithms #dataStructure #dynamicProgramming
