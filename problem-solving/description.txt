@@ -1,20 +1,20 @@
-Excel Sheet Column Number, Leetcode 171
+Valid Palindrome, Leetcode 125
 
 
-Explains "Excel Sheet Column Number" problem of the leetcode with code in Python.
+Explains "Valid Palindrome" problem of the leetcode with code in Python.
 
 00:00 - Problem explanation
-01:00 - Approach
-05:03 - Code
-07:05 - Complexity, time O(n) and space O(1)
+01:57 - Approach
+06:18 - Code
+10:18 - Complexity, time O(n) and space O(1)
 
-Problem: https://leetcode.com/problems/excel-sheet-column-number/
+Problem: https://leetcode.com/problems/valid-palindrome/
 
-Solution: https://github.com/hansrajdas/youtube/blob/main/problem-solving/lc-171-easy-excel-sheet-column-number/solution.py
+Solution: https://github.com/hansrajdas/youtube/blob/main/problem-solving/lc-125-easy-valid-palindrome/solution.py
 
 Subscribe: https://www.youtube.com/channel/UCUTXeBSMHvMjqq8CEXMySxQ?sub_confirmation=1
 
-#softwareengineering #programming #problemSolving #coding #codingInterview #leetcode #python #algorithms #dataStructure
+#softwareengineering #programming #problemSolving #coding #codingInterview #leetcode #python #algorithms #dataStructure #string #palindrome
 
 
 
