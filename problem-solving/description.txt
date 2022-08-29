@@ -1,22 +1,24 @@
-Valid Palindrome, Leetcode 125
+Valid Palindrome II, Leetcode 680
 
 
-Explains "Valid Palindrome" problem of the leetcode with code in Python.
+Explains "Valid Palindrome II" problem of the leetcode with code in Python.
+This is solved using 2 pointer approach, starting from 2 ends of the string and moving towards the centre and if we see a mismatch, we compare the remaining substring by skipping either left or right character.
 
 00:00 - Problem explanation
-01:57 - Approach
-06:18 - Code
-10:18 - Complexity, time O(n) and space O(1)
+01:17 - Approach
+07:05 - Code
+11:05 - Complexity, time O(n) and space O(1)
+11:57 - Code reuse
 
-Problem: https://leetcode.com/problems/valid-palindrome/
+Problem: https://leetcode.com/problems/valid-palindrome-ii/
 
-Solution: https://github.com/hansrajdas/youtube/blob/main/problem-solving/lc-125-easy-valid-palindrome/solution.py
+Solution: https://github.com/hansrajdas/youtube/tree/main/problem-solving/lc-680-easy-valid-palindrome-ii
 
 Subscribe: https://www.youtube.com/channel/UCUTXeBSMHvMjqq8CEXMySxQ?sub_confirmation=1
 
+
+
+
 #softwareengineering #programming #problemSolving #coding #codingInterview #leetcode #python #algorithms #dataStructure #string #palindrome
-
-
-
 #softwareengineering #programming #problemSolving #coding #codingInterview #leetcode #python #algorithms #dataStructure
 #softwareengineering #programming #problemSolving #coding #codingInterview #leetcode #python #algorithms #dataStructure #dynamicProgramming
