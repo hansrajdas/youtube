@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=20
+export num=258
 export level=easy
-export problem="valid-parentheses"
+export problem="add-digits"
 
 mkdir _lc-$num-$level-$problem
