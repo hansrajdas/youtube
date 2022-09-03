@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=977
+export num=1046
 export level=easy
-export problem="squares-of-a-sorted-array"
+export problem="last-stone-weight"
 
 mkdir _lc-$num-$level-$problem
