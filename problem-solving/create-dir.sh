@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=1046
-export level=easy
-export problem="last-stone-weight"
+export num=56
+export level=medium
+export problem="merge-intervals"
 
 mkdir _lc-$num-$level-$problem
