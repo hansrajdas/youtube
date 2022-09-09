@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=56
+export num=120
 export level=medium
-export problem="merge-intervals"
+export problem="triangle"
 
 mkdir _lc-$num-$level-$problem
