@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=21
-export level=easy
-export problem="merge-two-sorted-lists"
+export num=74
+export level=medium
+export problem="search-a-2d-matrix"
 
 mkdir _lc-$num-$level-$problem
