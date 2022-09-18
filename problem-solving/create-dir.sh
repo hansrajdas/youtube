@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=74
+export num=236
 export level=medium
-export problem="search-a-2d-matrix"
+export problem="lowest-common-ancestor-of-a-binary-tree"
 
 mkdir _lc-$num-$level-$problem
