@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=236
-export level=medium
-export problem="lowest-common-ancestor-of-a-binary-tree"
+export num=206
+export level=easy
+export problem="reverse-linked-list"
 
 mkdir _lc-$num-$level-$problem
