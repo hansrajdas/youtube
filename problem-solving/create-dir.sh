@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=206
-export level=easy
-export problem="reverse-linked-list"
+export num=221
+export level=medium
+export problem="maximal-square"
 
 mkdir _lc-$num-$level-$problem
