@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=174
+export num=871
 export level=hard
-export problem="dungeon-game"
+export problem="minimum-number-of-refueling-stops"
 
 mkdir _lc-$num-$level-$problem
