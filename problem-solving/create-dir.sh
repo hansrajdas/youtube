@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=62
+export num=1155
 export level=medium
-export problem="unique-paths"
+export problem="number-of-dice-rolls-with-target-sum"
 
 mkdir _lc-$num-$level-$problem
