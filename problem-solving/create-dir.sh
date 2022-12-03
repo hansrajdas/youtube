@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=688
+export num=494
 export level=medium
-export problem="knight-probability-in-chessboard"
+export problem="target-sum"
 
 mkdir _lc-$num-$level-$problem
