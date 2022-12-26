@@ -1,0 +1,13 @@
+01. VIM - Background, Motivation and Installation
+
+
+Talks about background, motivation ans intallation of VIM editor.
+
+00:00 - Background
+01:07 - Motivation
+03:33 - Installation
+
+VIM memory/CPU usage meme: https://twitter.com/nixcraft/status/1497121342209990659
+Stackoverflow blog: https://stackoverflow.blog/2017/05/23/stack-overflow-helping-one-million-developers-exit-vim/
+
+Subscribe for more content like this: https://www.youtube.com/@hansrajdas
