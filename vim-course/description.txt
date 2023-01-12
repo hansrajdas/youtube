@@ -1,13 +1,18 @@
-01. VIM - Background, Motivation and Installation
+04. VIM - Navigation
 
 
-Talks about background, motivation ans intallation of VIM editor.
+Explains how we can navigate a file in VIM starting basic.
 
-00:00 - Background
-01:07 - Motivation
-03:33 - Installation
+00:00 - Use h, j, k, l instead of arrow keys
+03:33 - vimrc config settings file
+05:36 - Move to beginning and end of a line
+06:10 - Page down/up
+06:56 - Move to top and bottom of file
+07:06 - Move to specific line (multiple ways)
+08:24 - Jump between open/close brackets
 
-VIM memory/CPU usage meme: https://twitter.com/nixcraft/status/1497121342209990659
-Stackoverflow blog: https://stackoverflow.blog/2017/05/23/stack-overflow-helping-one-million-developers-exit-vim/
+VIM full course playlist: http://bit.ly/3CaLK0l
+
+My vimrc file: http://bit.ly/3izIJjy
 
 Subscribe for more content like this: https://www.youtube.com/@hansrajdas
