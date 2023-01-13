@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=494
-export level=medium
-export problem="target-sum"
+export num=704
+export level=easy
+export problem="binary-search"
 
 mkdir _lc-$num-$level-$problem
