@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=704
+export num=2520
 export level=easy
-export problem="binary-search"
+export problem="count-the-digits-that-divide-a-number"
 
 mkdir _lc-$num-$level-$problem
