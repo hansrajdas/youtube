@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=7
-export level=medium
-export problem="reverse-integer"
+export num=58
+export level=easy
+export problem="length-of-last-word"
 
 mkdir _lc-$num-$level-$problem
