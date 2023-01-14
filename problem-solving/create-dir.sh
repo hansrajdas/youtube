@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=88
-export level=easy
-export problem="merge-sorted-array"
+export num=7
+export level=medium
+export problem="reverse-integer"
 
 mkdir _lc-$num-$level-$problem
