@@ -1,15 +1,12 @@
-04. VIM - Navigation
+06. VIM - Yank (copy) and Paste
 
 
-Explains how we can navigate a file in VIM starting basic.
+Demonstrates yank (copy) and paste operation in VIM editor.
 
-00:00 - Use h, j, k, l instead of arrow keys
-03:33 - vimrc config settings file
-05:36 - Move to beginning and end of a line
-06:10 - Page down/up
-06:56 - Move to top and bottom of file
-07:06 - Move to specific line (multiple ways)
-08:24 - Jump between open/close brackets
+00:00 - Yank line and paste
+02:01 - VIM command using "operation + motion"
+02:58 - Yank multiple lines
+04:26 - Yank with more motions (till line beginning/end and top/bottom of file)
 
 VIM full course playlist: http://bit.ly/3CaLK0l
 
