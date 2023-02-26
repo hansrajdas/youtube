@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=387
-export level=easy
-export problem="first-unique-character-in-a-string"
+export num=377
+export level=medium
+export problem="combination-sum-iv"
 
 mkdir _lc-$num-$level-$problem
