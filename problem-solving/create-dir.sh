@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=377
+export num=935
 export level=medium
-export problem="combination-sum-iv"
+export problem="knight-dialer"
 
 mkdir _lc-$num-$level-$problem
