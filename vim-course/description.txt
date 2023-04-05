@@ -1,12 +1,10 @@
-06. VIM - Yank (copy) and Paste
+10. VIM - Visual Mode With Examples
 
 
-Demonstrates yank (copy) and paste operation in VIM editor.
+In this video, we will be exploring the Visual Mode in VIM and how it can help you edit text more efficiently. Visual Mode allows you to visually select text, either by character, line, or block, and then perform operations on it, such as deleting, copying, or replacing. We'll show you different techniques to enter and exit Visual Mode, including using shortcuts and commands. You'll also see real-world examples of how Visual Mode can be used to quickly edit code and make changes to your text. Whether you're new to VIM or an experienced user, this video will give you valuable insights into using Visual Mode effectively. So, join us and take your VIM skills to the next level!
 
-00:00 - Yank line and paste
-02:01 - VIM command using "operation + motion"
-02:58 - Yank multiple lines
-04:26 - Yank with more motions (till line beginning/end and top/bottom of file)
+00:00 - Start visual selection
+01:44 - Operations performed using visual mode
 
 VIM full course playlist: http://bit.ly/3CaLK0l
 
