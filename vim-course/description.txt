@@ -1,13 +1,24 @@
-10. VIM - Visual Mode With Examples
+11. VIM - Command Mode: Search & Useful Settings
 
 
-In this video, we will be exploring the Visual Mode in VIM and how it can help you edit text more efficiently. Visual Mode allows you to visually select text, either by character, line, or block, and then perform operations on it, such as deleting, copying, or replacing. We'll show you different techniques to enter and exit Visual Mode, including using shortcuts and commands. You'll also see real-world examples of how Visual Mode can be used to quickly edit code and make changes to your text. Whether you're new to VIM or an experienced user, this video will give you valuable insights into using Visual Mode effectively. So, join us and take your VIM skills to the next level!
+In this video, we will dive deeper into VIM's Command Mode and for pattern searching capability with some useful settings.
 
-00:00 - Start visual selection
-01:44 - Operations performed using visual mode
+First, we'll cover the search functionality using Command Mode. We'll show you how to search for specific words or phrases within a file, and how to use search techniques like case-sensitive searching, whole word searching, and regular expressions. You'll also learn how to navigate through search results. We'll also see useful settings that can enhance your VIM experience. 
+
+Whether you're a beginner or an experienced VIM user, this video will provide valuable insights and help you take your skills to the next level. So, join us and learn how to make the most of VIM's Command Mode for search and useful settings!
+
+00:00 - Introduction
+00:32 - Pattern searching & navigating results
+01:04 - Search settings
+04:04 - Backward search
+04:42 - Search current word under cursor
+05:55 - Search multiple patterns
+07:25 - Search pattern while opening file
 
 VIM full course playlist: http://bit.ly/3CaLK0l
 
 My vimrc file: http://bit.ly/3izIJjy
 
 Subscribe for more content like this: https://www.youtube.com/@hansrajdas
+
+#vim #programming #coding #codeeditor #learning #tutorial #course

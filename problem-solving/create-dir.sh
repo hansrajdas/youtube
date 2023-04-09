@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=129
+export num=102
 export level=medium
-export problem="sum-root-to-leaf-numbers"
+export problem="binary-tree-level-order-traversal"
 
 mkdir _lc-$num-$level-$problem
