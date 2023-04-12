@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=230
+export num=103
 export level=medium
-export problem="kth-smallest-element-in-a-bst"
+export problem="binary-tree-zigzag-level-order-traversal"
 
 mkdir _lc-$num-$level-$problem
