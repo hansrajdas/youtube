@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=103
-export level=medium
-export problem="binary-tree-zigzag-level-order-traversal"
+export num=295
+export level=hard
+export problem="find-median-from-data-stream"
 
 mkdir _lc-$num-$level-$problem
