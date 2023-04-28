@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=295
-export level=hard
-export problem="find-median-from-data-stream"
+export num=700
+export level=easy
+export problem="search-in-a-binary-search-tree"
 
 mkdir _lc-$num-$level-$problem
