@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=700
-export level=easy
-export problem="search-in-a-binary-search-tree"
+export num=416
+export level=medium
+export problem="partition-equal-subset-sum"
 
 mkdir _lc-$num-$level-$problem
