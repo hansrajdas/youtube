@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=673
-export level=medium
-export problem="number-of-longest-increasing-subsequence"
+export num=674
+export level=easy
+export problem="longest-continuous-increasing-subsequence"
 
 mkdir _lc-$num-$level-$problem
