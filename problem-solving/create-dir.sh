@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=674
-export level=easy
-export problem="longest-continuous-increasing-subsequence"
+export num=33
+export level=medium
+export problem="search-in-rotated-sorted-array"
 
 mkdir _lc-$num-$level-$problem
