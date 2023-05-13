@@ -6,7 +6,7 @@ Complexity
 Time: O(n^2)
 Space: O(n)
 
-Reference: https://leetcode.com/problems/number-of-longest-increasing-subsequence/solutions/835323/python-3-dp-explanation/
+Explanation: https://leetcode.com/problems/number-of-longest-increasing-subsequence/solutions/835323/python-3-dp-explanation/
 
 NOTE:
 - There is O(nlogn) solution also but solution is hard to understand
