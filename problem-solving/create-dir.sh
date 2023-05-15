@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=3
+export num=153
 export level=medium
-export problem="longest-substring-without-repeating-characters"
+export problem="find-minimum-in-rotated-sorted-array"
 
 mkdir _lc-$num-$level-$problem
