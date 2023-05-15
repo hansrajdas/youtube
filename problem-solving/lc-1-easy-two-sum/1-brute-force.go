@@ -1,11 +1,11 @@
-/**
- * Problem: https://leetcode.com/problems/two-sum/
- * 
- * Complexity
- * ----------
- * Time: O(N^2)
- * Space: O(1)
- */
+/*
+Problem: https://leetcode.com/problems/two-sum/
+
+Complexity
+----------
+Time: O(N^2)
+Space: O(1)
+*/
 
 func twoSum(nums []int, target int) []int {
     for i := 0; i < len(nums); i++ {

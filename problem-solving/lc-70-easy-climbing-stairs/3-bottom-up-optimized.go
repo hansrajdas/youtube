@@ -1,11 +1,11 @@
-/**
- * https://leetcode.com/problems/climbing-stairs/
- * 
- * Complexity
- * ----------
- * Time: O(N)
- * Space: O(1)
- */
+/*
+https://leetcode.com/problems/climbing-stairs/
+
+Complexity
+----------
+Time: O(N)
+Space: O(1)
+*/
 
 func climbStairs(n int) int {
     if n < 4 {

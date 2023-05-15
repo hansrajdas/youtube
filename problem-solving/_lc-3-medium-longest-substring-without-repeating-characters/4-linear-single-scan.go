@@ -1,4 +1,4 @@
-"""
+/*
 https://leetcode.com/problems/longest-substring-without-repeating-characters
 
 Complexity
@@ -7,7 +7,7 @@ Time: O(n)
 Space: O(n)
 
 Reference: https://leetcode.com/problems/longest-substring-without-repeating-characters/solutions/1729/11-line-simple-java-solution-o-n-with-explanation/
-"""
+*/
 
 func max(x, y int) int {
     if x > y {

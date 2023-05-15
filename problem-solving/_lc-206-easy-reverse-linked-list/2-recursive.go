@@ -1,10 +1,10 @@
-/**
- * https://leetcode.com/problems/reverse-linked-list/
- * 
- * Complexity
- * ----------
- * Time and space: O(n)
- */
+/*
+https://leetcode.com/problems/reverse-linked-list/
+
+Complexity
+----------
+Time and space: O(n)
+*/
 
 /**
  * Definition for singly-linked list.

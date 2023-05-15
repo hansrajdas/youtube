@@ -1,11 +1,11 @@
-/**
- * https://leetcode.com/problems/plus-one/
- * 
- * Complexity
- * ----------
- * Time: O(n)
- * Space: (1)
- */
+/*
+https://leetcode.com/problems/plus-one/
+
+Complexity
+----------
+Time: O(n)
+Space: (1)
+*/
 
 func plusOne(digits []int) []int {
     for i := len(digits) - 1; i >= 0; i-- {

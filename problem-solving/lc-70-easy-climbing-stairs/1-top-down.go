@@ -1,11 +1,11 @@
-/**
- * https://leetcode.com/problems/climbing-stairs/
- * 
- * Complexity
- * ----------
- * Time: O(N)
- * Space: O(N)
- */
+/*
+https://leetcode.com/problems/climbing-stairs/
+
+Complexity
+----------
+Time: O(N)
+Space: O(N)
+*/
 
 var mem = make(map[int]int)
 

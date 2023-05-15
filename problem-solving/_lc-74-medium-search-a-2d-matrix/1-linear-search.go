@@ -1,11 +1,11 @@
-/**
- * https://leetcode.com/problems/search-a-2d-matrix/
- * 
- * Complexity
- * ----------
- * Time: O(rows + cols)
- * Space: O(1)
- */
+/*
+https://leetcode.com/problems/search-a-2d-matrix/
+
+Complexity
+----------
+Time: O(rows + cols)
+Space: O(1)
+*/
 
 func searchMatrix(matrix [][]int, target int) bool {
     r := 0

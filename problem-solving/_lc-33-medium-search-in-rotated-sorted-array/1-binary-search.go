@@ -1,11 +1,11 @@
-/**
- * https://leetcode.com/problems/search-in-rotated-sorted-array
- * 
- * Complexity
- * ----------
- * Time: O(logn)
- * Space: O(1)
- */
+/*
+https://leetcode.com/problems/search-in-rotated-sorted-array
+
+Complexity
+----------
+Time: O(logn)
+Space: O(1)
+*/
 
 func search(nums []int, target int) int {
     left := 0

@@ -1,11 +1,11 @@
-/**
- * https://leetcode.com/problems/search-in-a-binary-search-tree/
- * 
- * Complexity
- * ----------
- * Time: O(n)
- * Space: O(1)
- */
+/*
+https://leetcode.com/problems/search-in-a-binary-search-tree/
+
+Complexity
+----------
+Time: O(n)
+Space: O(1)
+*/
 
 /**
  * Definition for a binary tree node.

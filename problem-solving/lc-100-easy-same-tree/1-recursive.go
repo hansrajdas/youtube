@@ -1,15 +1,15 @@
-/**
- * https://leetcode.com/problems/same-tree/
- * 
- * Complexity
- * ----------
- * Time and Space: O(N)
- * 
- * Note
- * ----
- * Iterative approach is not very readable for this question,
- * recursive is preferrable due to clean and short code.
- */
+/*
+https://leetcode.com/problems/same-tree/
+
+Complexity
+----------
+Time and Space: O(N)
+
+Note
+----
+Iterative approach is not very readable for this question,
+recursive is preferrable due to clean and short code.
+*/
 
 /**
  * Definition for a binary tree node.

@@ -1,11 +1,11 @@
-"""
+/*
 https://leetcode.com/problems/longest-substring-without-repeating-characters
 
 Complexity
 ----------
 Time: O(n)
 Space: O(n)
-"""
+*/
 
 func max(x, y int) int {
     if x > y {

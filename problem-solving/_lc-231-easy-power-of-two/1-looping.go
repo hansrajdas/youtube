@@ -1,10 +1,10 @@
-/**
- * https://leetcode.com/problems/power-of-two/
- * 
- * Complexity
- * ----------
- * Time: O(logn)
- */
+/*
+https://leetcode.com/problems/power-of-two/
+
+Complexity
+----------
+Time: O(logn)
+*/
 
 func isPowerOfTwo(n int) bool {
     if n < 1 {

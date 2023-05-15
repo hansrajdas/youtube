@@ -1,13 +1,13 @@
-/**
- * https://leetcode.com/problems/length-of-last-word/
- * 
- * Complexity
- * ----------
- * Time: O(n)
- * Space: O(1)
- * 
- * n = length of whole string
- */
+/*
+https://leetcode.com/problems/length-of-last-word/
+
+Complexity
+----------
+Time: O(n)
+Space: O(1)
+
+n = length of whole string
+*/
 
 func lengthOfLastWord(s string) int {
     count := 0

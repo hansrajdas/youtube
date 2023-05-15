@@ -1,11 +1,11 @@
-/**
- * <Problem link>
- * 
- * Complexity
- * ----------
- * Time: O(n)
- * Space: O(1)
- */
+/*
+https://leetcode.com/problems/sort-colors/
+
+Complexity
+----------
+Time: O(n)
+Space: O(1)
+*/
 
 func sortColors(nums []int)  {
     low, mid := 0, 0

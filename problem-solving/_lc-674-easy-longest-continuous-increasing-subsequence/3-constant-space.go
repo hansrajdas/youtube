@@ -1,11 +1,11 @@
-/**
- * https://leetcode.com/problems/longest-continuous-increasing-subsequence/
- * 
- * Complexity
- * ----------
- * Time: O(n)
- * Space: O(1)
- */
+/*
+https://leetcode.com/problems/longest-continuous-increasing-subsequence/
+
+Complexity
+----------
+Time: O(n)
+Space: O(1)
+*/
 
 func findLengthOfLCIS(nums []int) int {
     res := 1

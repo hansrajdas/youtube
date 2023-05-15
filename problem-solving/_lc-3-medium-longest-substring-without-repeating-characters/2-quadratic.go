@@ -1,11 +1,11 @@
-"""
+/*
 https://leetcode.com/problems/longest-substring-without-repeating-characters
 
 Complexity
 ----------
 Time: O(n^2)
 Space: O(n)
-"""
+*/
 
 type void struct{}
 
