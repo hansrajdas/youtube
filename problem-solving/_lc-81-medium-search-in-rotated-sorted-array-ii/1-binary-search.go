@@ -7,8 +7,6 @@ Time:
   Best case: O(logn)
   Worst case: O(n) -> When all elements are same and we are searching for some other element.
 Space: O(1)
-
-Explanation: https://leetcode.com/problems/search-in-rotated-sorted-array-ii/solutions/1890199/c-algorithm-binary-search
 */
 
 func search(nums []int, target int) bool {
@@ -19,10 +17,10 @@ func search(nums []int, target int) bool {
         if nums[mid] == target {
             return true
         // Case: [3,1,2,3,3,3,3] -> can't decide which way to go.
-        } else if nums[left] == nums[mid] && nums[mid] == nums[right] {
+        // Skip repeating elements from left (can also be deleted from right)
+        } else if nums[left] == nums[mid] {
             left += 1
-            right -= 1
-        } else if nums[left] <= nums[mid] {
+        } else if nums[left] < nums[mid] {
             if nums[left] <= target && target <= nums[mid] {
                 right = mid - 1
             } else {
