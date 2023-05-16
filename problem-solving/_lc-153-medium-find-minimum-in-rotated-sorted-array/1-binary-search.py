@@ -3,7 +3,9 @@ https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 
 Complexity
 ----------
-Time: O(logn)
+Time:
+  Best case: O(logn)
+  Worst case: O(n)
 Space: O(1)
 """
 

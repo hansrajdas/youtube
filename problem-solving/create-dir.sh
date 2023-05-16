@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=153
-export level=medium
-export problem="find-minimum-in-rotated-sorted-array"
+export num=154
+export level=hard
+export problem="find-minimum-in-rotated-sorted-array-ii"
 
 mkdir _lc-$num-$level-$problem
