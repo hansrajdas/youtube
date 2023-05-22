@@ -5,10 +5,6 @@ Complexity
 ----------
 Time: O(n^2)
 Space: O(n)
-
-Note
-----
-This can also be solved in O(nlogn): https://github.com/hansrajdas/algorithms/blob/master/Level-3/longest-increasing-subsequence-nlogn.c
 """
 
 class Solution:
