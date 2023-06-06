@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=2131
+export num=63
 export level=medium
-export problem="longest-palindrome-by-concatenating-two-letter-words"
+export problem="unique-paths-ii"
 
 mkdir _lc-$num-$level-$problem
