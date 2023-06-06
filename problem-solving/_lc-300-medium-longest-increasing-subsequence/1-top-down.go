@@ -11,7 +11,7 @@ NOTE: This solution is not accepted, gives "Time limit exceeded"
 
 func lengthOfLIS(nums []int) int {
     cache := make(map[string]int)
-    var F func(int, int) int
+    var F func(int, int) int  // This declaration is required.
     F = func (prev, idx int) int {
         if idx == len(nums) {
             return 0
