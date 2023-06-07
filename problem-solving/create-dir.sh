@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=63
+export num=576
 export level=medium
-export problem="unique-paths-ii"
+export problem="out-of-boundary-paths"
 
 mkdir _lc-$num-$level-$problem
