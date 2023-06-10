@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=1269
+export num=1220
 export level=hard
-export problem="number-of-ways-to-stay-in-the-same-place-after-some-steps"
+export problem="count-vowels-permutation"
 
 mkdir _lc-$num-$level-$problem
