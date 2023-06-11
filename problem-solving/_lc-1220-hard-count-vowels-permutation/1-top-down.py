@@ -10,7 +10,10 @@ class Solution:
     def countVowelPermutation(self, n: int) -> int:
         M = 1000000007
         cache = collections.defaultdict(int)
-        vowelRule = {
+        # '*' is used to handle initial condition, when we don't
+        # previous char and can have any of 5 vowels.
+        nextChars = {
+            '*': ['a', 'e', 'i', 'o', 'u'],
             'a': ['e'],
             'e': ['a', 'i'],
             'i': ['a', 'e', 'o', 'u'],
@@ -22,13 +25,9 @@ class Solution:
                 return 1
             if (lastChar, vowelCount) in cache:
                 return cache[(lastChar, vowelCount)]
-            if lastChar is None:
-                nextVowels = ['a', 'e', 'i', 'o', 'u']
-            else:
-                nextVowels = vowelRule[lastChar]
-            for v in nextVowels:
+            for v in nextChars[lastChar]:
                 cache[(lastChar, vowelCount)] = (
                     cache[(lastChar, vowelCount)] +
                     getCount(v, vowelCount + 1)) % M
             return cache[(lastChar, vowelCount)]
-        return getCount(None, 0)
+        return getCount('*', 0)
