@@ -1,3 +1,11 @@
+# # Media files
+# **.mp4
+# **.mov
+# **.jpeg
+# **.png
+# **.svg
+# **.webp
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -129,11 +137,3 @@ dmypy.json
 .pyre/
 
 .DS_Store
-
-# Media files
-**.mp4
-**.mov
-**.jpeg
-**.png
-**.svg
-**.webp
