@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=647
+export num=516
 export level=medium
-export problem="palindromic-substrings"
+export problem="longest-palindromic-subsequence"
 
 mkdir _lc-$(printf '%04s\n' $num)-$level-$problem
