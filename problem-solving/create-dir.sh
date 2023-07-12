@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=712
+export num=198
 export level=medium
-export problem="minimum-ascii-delete-sum-for-two-strings"
+export problem="house-robber"
 
 mkdir _lc-$(printf '%04s\n' $num)-$level-$problem
