@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=198
+export num=122
 export level=medium
-export problem="house-robber"
+export problem="best-time-to-buy-and-sell-stock-ii"
 
 mkdir _lc-$(printf '%04s\n' $num)-$level-$problem
