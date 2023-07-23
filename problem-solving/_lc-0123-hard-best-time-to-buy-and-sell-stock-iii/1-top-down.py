@@ -15,6 +15,7 @@ class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         cache = {}
         def profit(i, isBuy, k):
+            """Returns max profit earned."""
             if i >= len(prices) or k == 2:
                 return 0
             key = (i, isBuy, k)

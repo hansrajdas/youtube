@@ -14,6 +14,7 @@ Approach-1: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/so
 func maxProfit(prices []int) int {
     cache := make(map[string]int)
     var F func(int, int, int) int
+    // Returns max profit earned.
     F = func(i, isBuy, k int) int {
         if i == len(prices) || k == 2 {
             return 0
