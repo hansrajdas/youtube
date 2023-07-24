@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=188
-export level=hard
-export problem="best-time-to-buy-and-sell-stock-iv"
+export num=427
+export level=medium
+export problem="construct-quad-tree"
 
 mkdir _lc-$num-$level-$problem
