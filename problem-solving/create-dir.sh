@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=427
-export level=medium
-export problem="construct-quad-tree"
+export num=27
+export level=easy
+export problem="remove-element"
 
 mkdir _lc-$num-$level-$problem
