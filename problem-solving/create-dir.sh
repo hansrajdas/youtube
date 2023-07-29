@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=27
+export num=101
 export level=easy
-export problem="remove-element"
+export problem="symmetric-tree"
 
 mkdir _lc-$num-$level-$problem
