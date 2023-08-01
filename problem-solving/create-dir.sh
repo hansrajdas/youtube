@@ -1,9 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=28
+export num=9
 export level=easy
-export problem="find-the-index-of-the-first-occurrence-in-a-string"
+export problem="palindrome-number"
 
 mkdir _lc-$num-$level-$problem
-cd _lc-$num-$level-$problem
