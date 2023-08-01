@@ -5,4 +5,4 @@ export num=9
 export level=easy
 export problem="palindrome-number"
 
-mkdir _lc-$num-$level-$problem
+mkdir lc-$num-$level-$problem
