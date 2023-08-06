@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=9
+export num=104
 export level=easy
-export problem="palindrome-number"
+export problem="maximum-depth-of-binary-tree"
 
 mkdir lc-$num-$level-$problem
