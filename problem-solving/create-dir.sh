@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=9
-export level=easy
-export problem="palindrome-number"
+export num=274
+export level=medium
+export problem="h-index"
 
-mkdir _lc-$num-$level-$problem
+mkdir lc-$num-$level-$problem
