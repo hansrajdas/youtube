@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -x
-export num=104
-export level=easy
-export problem="maximum-depth-of-binary-tree"
+export num=274
+export level=medium
+export problem="h-index"
 
 mkdir lc-$num-$level-$problem
